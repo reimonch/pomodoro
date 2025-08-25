@@ -1,2 +1,2 @@
-# pomodoro
-Pomodoro App
+# Pomodoro App
+Ver canvas README
